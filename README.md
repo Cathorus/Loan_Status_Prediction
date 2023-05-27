@@ -78,5 +78,3 @@ To use this code:
 4. Run the code and observe the accuracy scores on the training and testing data.
 
 🚨 Note: This code is provided as a prototype and may require further enhancements and optimizations for real-world scenarios.
-
-📝 Feel free to copy the code directly to your GitHub repository and modify it to suit your specific requirements.
